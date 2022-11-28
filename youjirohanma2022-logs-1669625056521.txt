@@ -1,0 +1,10 @@
+2022-11-28T08:41:16.014892+00:00 app[worker.1]: 0|xeon  | => In Private Chat 249116792473@s.whatsapp.net
+2022-11-28T08:43:45.644404+00:00 app[worker.1]: 0|xeon  | [ MESSAGE ] Mon Nov 28 2022 08:43:45 GMT+0000 (Coordinated Universal Time) اوامر
+2022-11-28T08:43:45.644420+00:00 app[worker.1]: 0|xeon  | => From Demon 249116792473@s.whatsapp.net
+2022-11-28T08:43:45.644423+00:00 app[worker.1]: 0|xeon  | => In Private Chat 249116792473@s.whatsapp.net
+2022-11-28T08:43:53.390090+00:00 app[worker.1]: 0|xeon  | [ MESSAGE ] Mon Nov 28 2022 08:43:53 GMT+0000 (Coordinated Universal Time) كلزق
+2022-11-28T08:43:53.390110+00:00 app[worker.1]: 0|xeon  | => From Demon 249116792473@s.whatsapp.net
+2022-11-28T08:43:53.390120+00:00 app[worker.1]: 0|xeon  | => In Private Chat 249116792473@s.whatsapp.net
+2022-11-28T08:43:55.855684+00:00 app[worker.1]: 0|xeon  | [ MESSAGE ] Mon Nov 28 2022 08:43:55 GMT+0000 (Coordinated Universal Time) 🙂
+2022-11-28T08:43:55.855689+00:00 app[worker.1]: 0|xeon  | => From Demon 249116792473@s.whatsapp.net
+2022-11-28T08:43:55.855710+00:00 app[worker.1]: 0|xeon  | => In Private Chat 249116792473@s.whatsapp.net
